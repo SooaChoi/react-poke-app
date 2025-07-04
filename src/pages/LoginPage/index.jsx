@@ -8,7 +8,7 @@ const LoginPage = () => {
           <h2 className='font-bold text-2xl'>Pokemon</h2>
           <p className='text-xs pt-4 text-[#002D74]'>포켓몬 사이트에 오신걸</p>
           <p className='text-xs pt-4 text-[#002D74]'>환영합니다.</p>
-          <p className='text-xs pt-4 text-[#002D74]'>포로그인해 주세요.</p>
+          <p className='text-xs pt-4 text-[#002D74]'>로그인해 주세요.</p>
         </div>
         <div className='md:block hidden w-1/2'>
           <img className='rounded-2xl ' src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" alt="login" />
